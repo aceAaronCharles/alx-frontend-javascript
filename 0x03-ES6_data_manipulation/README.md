@@ -19,5 +19,8 @@ An array is a special variable in all the languages that are used to store diffe
 - Your code should use the `js extension`
 - Your code will be tested using Jest and the command npm run test
 - Your code will be verified against lint using `ESLint`
-- Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
+- Your code needs to pass all the tests anBd lint. You can verify the entire project running npm run full-test
 - All of your functions must be exported
+
+By Ace Aaron Charles
+
