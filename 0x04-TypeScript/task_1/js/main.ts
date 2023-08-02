@@ -27,7 +27,7 @@ const director1: Directors = {
     location: 'America',
     fullTimeEmployee: true,
     numberOfReports: 17,
-  };
+};
 
 console.log(director1);
 
@@ -45,7 +45,7 @@ interface StudentClassInterface {
 }
 
 interface StudentClassConstructorInterface {
-    new(firstName: string, lastName: string): StudentClassInterface; 
+    new(firstName: string, lastName: string): StudentClassInterface;
 }
 
 class StudentClass implements StudentClassInterface {
